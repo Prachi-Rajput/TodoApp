@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3CPrachi-Rajput%3E.github.io/%3CTodoApp%3E/static/css/main.a661f73d.css",
+    "main.js": "/%3CPrachi-Rajput%3E.github.io/%3CTodoApp%3E/static/js/main.48ee4f28.js",
+    "index.html": "/%3CPrachi-Rajput%3E.github.io/%3CTodoApp%3E/index.html",
+    "main.a661f73d.css.map": "/%3CPrachi-Rajput%3E.github.io/%3CTodoApp%3E/static/css/main.a661f73d.css.map",
+    "main.48ee4f28.js.map": "/%3CPrachi-Rajput%3E.github.io/%3CTodoApp%3E/static/js/main.48ee4f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a661f73d.css",
+    "static/js/main.48ee4f28.js"
+  ]
+}
